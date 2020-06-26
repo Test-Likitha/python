@@ -1,2 +1,2 @@
-# knn
-K nearest algorithm in python 
+# lr
+Logistic regression algorithm in python 
